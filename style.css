@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+}
+li{
+    font-weight: bold;
+    font-style: italic;
+}
+p{
+    font-family: "Calibri";
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: blue;
+}
+.foto-carnet {
+    width: 100px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.content-section {
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    width: 80%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.header-section {
+    background-color: #40E0D0;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-section {
+    background-color: #40E0D0;
+    height: 25px;
+    margin-top: 20px;
+}
